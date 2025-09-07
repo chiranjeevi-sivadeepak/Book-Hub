@@ -1,0 +1,14 @@
+.rating-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.bookshelves-container{
+    margin-top: 70px;
+}
+.sidebar{
+    position:fixed;
+}
+.input-container{
+    width: 300px;
+}
